@@ -1,0 +1,4 @@
+*.w3x filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.mdx filter=lfs diff=lfs merge=lfs -text
+*.blp filter=lfs diff=lfs merge=lfs -text
